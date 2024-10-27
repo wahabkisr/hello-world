@@ -1,4 +1,5 @@
 # hello-world
-getting started with the github flow
+I deleted a line
+I added 2 more lines
 my name is wahab, i'm testing github branching
 i made a branch and edited a file and will now commit it
